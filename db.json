@@ -1,29 +1,24 @@
 {
-  "first_name" : "Sammy",
-  "last_name" : "Shark",
-  "location" : "Ocean",
-  "websites" : [
+  "first_name": "Sammy",
+  "last_name": "Shark",
+  "location": "Ocean",
+  "websites": [
     {
-      "description" : "work",
-     
+      "description": "work"
     },
     {
-      "desciption" : "tutorials",
-     
+      "desciption": "tutorials"
     }
   ],
-  "social_media" : [
+  "social_media": [
     {
-      "description" : "twitter",
-    
+      "description": "twitter"
     },
     {
-      "description" : "facebook",
-     
+      "description": "facebook"
     },
     {
-      "description" : "github",
-     
+      "description": "github"
     }
   ]
 }
