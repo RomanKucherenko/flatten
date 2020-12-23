@@ -1,7 +1,7 @@
 {
   "first_name": "Sammy",
   "last_name": "Shark",
-  "location": "Ocean",
+  "location": "https://storage.googleapis.com/text_extact_pdfs/github-skaeladmin-receipt-2017-08-01.pdf",
   "websites": [
     {
       "description": "work"
